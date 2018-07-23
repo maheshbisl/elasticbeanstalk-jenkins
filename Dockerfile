@@ -1,4 +1,0 @@
-FROM jenkins/jenkins
-
-EXPOSE 8080
-EXPOSE 50000
